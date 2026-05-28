@@ -43,19 +43,19 @@ An AI-assisted cybersecurity and digital investigation system developed to ident
 
 ### 🔐 Login / Authentication Page
 
-![Login Page](screenshots/login-page.png)
+![Login Page](screenshots/Login_Page.png)
 
 ### 📊 Dashboard Interface
 
-![Dashboard Interface](screenshots/dashboard-interface.png)
+![Dashboard Interface](screenshots/Dashboard_Interface.png)
 
 ### 📈 Telegram Data Analysis in Table Format
 
-![Telegram Data Analysis](screenshots/telegram-analysis.png)
+![Telegram Data Analysis](screenshots/Telegram_Data_Analysis.png)
 
 ### 📑 Updating Graph
 
-![Updating Graph](screenshots/report-generation.png)
+![Updating Graph](screenshots/Updating_Graph.png)
 
 ---
 

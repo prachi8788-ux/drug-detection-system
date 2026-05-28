@@ -1,0 +1,15 @@
+streamlit
+pandas
+matplotlib
+
+google-generativeai
+google-api-core
+google-ai-generativelanguage
+proto-plus
+googleapis-common-protos
+grpcio-status
+
+protobuf==5.29.3
+urllib3==1.26.18
+
+pyrebase4

@@ -49,21 +49,13 @@ An AI-assisted cybersecurity and digital investigation system developed to ident
 
 ![Dashboard Interface](screenshots/dashboard-interface.png)
 
-### 📈 Telegram Data Analysis
+### 📈 Telegram Data Analysis in Table Format
 
 ![Telegram Data Analysis](screenshots/telegram-analysis.png)
 
-### 🚨 Suspicious Activity Detection
+### 📑 Updating Graph
 
-![Suspicious Activity Detection](screenshots/detection-results.png)
-
-### 🤖 AI-Based Monitoring System
-
-![AI-Based Monitoring System](screenshots/ai-monitoring.png)
-
-### 📑 Investigation Report Generation
-
-![Investigation Report](screenshots/report-generation.png)
+![Updating Graph](screenshots/report-generation.png)
 
 ---
 
@@ -72,7 +64,7 @@ An AI-assisted cybersecurity and digital investigation system developed to ident
 ### 1️⃣ Clone Repository
 
 ```bash id="m6f3xb"
-git clone <your-repository-url>
+git clone <https://github.com/prachi8788-ux/drug-detection-system.git>
 ```
 
 ---
